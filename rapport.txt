@@ -11,3 +11,10 @@ Objectif :
 Méthode :
 
 Observer la croissance bactérienne à différents moments.
+Résultats :
+
+La population bactérienne augmente progressivement au cours du temps.
+
+Conclusion :
+
+Les observations montrent une augmentation de la population bactérienne pendant la période étudiée.
